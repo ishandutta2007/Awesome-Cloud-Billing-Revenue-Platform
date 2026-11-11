@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform?style=social&color=white" alt="Stars Badge" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform?style=social&color=white" alt="Stars_Badge" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform?style=social&color=white" alt="Forks Badge" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform?style=flat-square&color=blue" alt="Issues Badge" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Billing-Revenue-Platform?style=flat-square&color=green" alt="License" /></a>
@@ -57,9 +57,9 @@ The table below compiles leading hosted and SaaS recurring billing platforms, so
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated self-hosted billing engines, open metering layers, and financial infrastructure projects on GitHub. Sorted descending by GitHub star count:
+Curated self-hosted billing engines, open metering layers, and financial infrastructure projects on GitHub. Sorted descending by GitHub Stars_Count:
 
-| Project | Star Badge | Language / Stack | Description |
+| Project | Stars_Badge | Language / Stack | Description |
 |:---|:---:|:---:|:---|
 | **[Hyperswitch](https://github.com/juspay/hyperswitch)** | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Rust | High-performance, open-source payment switch and financial router that powers unified checkout, subscription routing, and global payment provider integrations. |
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Ruby / Go / TS | Open-source usage-based billing API and metering infrastructure with hybrid pricing models, wallet credits, invoicing engines, and payment gateway orchestration. |
