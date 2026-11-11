@@ -1,6 +1,6 @@
 # Awesome-Cloud-Billing-Revenue-Platform
 
-# Top Cloud Billing & Revenue Platform Ecosystem
+## Top Cloud Billing & Revenue Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Subscription Billing, Usage Metering & Revenue Recognition Automation*  
