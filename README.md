@@ -24,6 +24,7 @@
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architectural Patterns for Modern Billing](#-architectural-patterns-for-modern-billing)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -106,6 +107,24 @@ Contributions, project suggestions, and documentation refinements are warmly wel
 2. 🌿 Create a branch for your addition (`git checkout -b feature/new-billing-tool`).
 3. 📝 Update `README.md` keeping formatting, alphabetical or sorted orders, and factual data intact.
 4. 🚀 Open a Pull Request detailing the changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this resource! 🙏
+
+If you find this curated ecosystem list helpful for your startup, architecture research, or billing integration:
+- ⭐ **Star** this repository on GitHub to show your love and help others discover it.
+- 🍴 **Fork** and contribute new tools, updates, or benchmark corrections.
+- 📢 **Share** it with your engineering, finance, and revops teams or on social channels.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and maintenance of open-source knowledge bases, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
