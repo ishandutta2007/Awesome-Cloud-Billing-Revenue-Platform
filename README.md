@@ -57,7 +57,7 @@ The table below compiles leading hosted and SaaS recurring billing platforms, so
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated self-hosted billing engines, open metering layers, and financial infrastructure projects on GitHub. Sorted descending by GitHub Stars_Count:
+Curated self-hosted billing engines, open metering layers, and financial infrastructure projects on GitHub. Sorted descending by GitHub_Stars_Count:
 
 | Project | Stars_Badge | Language / Stack | Description |
 |:---|:---:|:---:|:---|
